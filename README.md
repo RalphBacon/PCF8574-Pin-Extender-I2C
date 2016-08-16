@@ -13,6 +13,9 @@ Finally, the third sketch shows how we can use the interrupt pin on the PCF8574 
 
 We don't use any libraries (although plenty exist for the PCF8574) as it's more useful to understand what it going on. The only library we require is the standard Wire library for the I2C use.
 
+Finally, here's a link to some very useful print routines, although the one we're interested in here is for printing binrary values to the Serial window:
+http://www.phanderson.com/arduino/arduino_display.html 
+
 Any queries or comments, just put them at the bottom of the video and I'll do my best to answer!
 
 Once again, thanks for watching and please do spread the word, give me a thumbs up if you like the video and don't forget to subscribe to get nofication of further (just about weekly) videos going forward!
